@@ -20,3 +20,4 @@ after_success:
     - docker push asnaebeya/multi-nginx
     - docker push asnaebeya/multi-server
     - docker push asnaebeya/multi-worker
+#add travis
